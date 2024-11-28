@@ -18,8 +18,8 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
-### Name : VAISHNAVIDEVI V
-### Reg No : 212223040230
+### Name : VARSHINI D
+### Reg No : 212223230234
 ```
 import matplotlib.pyplot as plt
 x_values=[0,1,2,3,4,5]
